@@ -4,6 +4,9 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  .top-wrapper {
+    background-image: url(main1.jpg)
+  }
   
   .top-wrapper h1 {
     font-size: 32px;
@@ -18,6 +21,9 @@
 @media all and (max-width: 670px) {
   .lesson {
     width: 100%;
+  }
+  .top-wrapper {
+    background-image: url(main1.jpg)
   }
   
   footer {
